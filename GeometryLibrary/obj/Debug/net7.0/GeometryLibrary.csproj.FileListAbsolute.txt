@@ -1,0 +1,12 @@
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.deps.json
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.dll
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\bin\Debug\net7.0\GeometryLibrary.pdb
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.csproj.AssemblyReference.cache
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.AssemblyInfoInputs.cache
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.AssemblyInfo.cs
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.dll
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\refint\GeometryLibrary.dll
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\GeometryLibrary.pdb
+C:\Users\sejad\source\repos\CTest\MINDBOX\Mindbox\GeometryLibrary\obj\Debug\net7.0\ref\GeometryLibrary.dll
